@@ -1,2 +1,2 @@
 # Python-MySQL-Database-Queries
-Learn Python's MySQL database interaction with this Jupyter Notebook tutorial. Connect, query, and analyze data effortlessly.
+This repository contains a Jupyter Notebook that provides a step-by-step guide on how to establish a connection to a MySQL database using Python. It demonstrates the process of connecting to the database, executing SQL queries, and retrieving results. Whether you're a beginner looking to learn the basics of database interaction with Python or an experienced developer seeking a quick reference, this repository offers valuable insights and code examples for database querying with Python and MySQL. Explore the notebook to enhance your data manipulation skills and unlock the power of Python for database-related tasks.
